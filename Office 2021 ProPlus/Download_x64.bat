@@ -7,7 +7,7 @@ SET AppName2=Office
 SET AppVer=2021
 SET AppEd=Professional Plus
 
-SET AppArch=x86
+SET AppArch=x64
 
 TITLE [ %Mode% Mode ] %AppName2% %AppVer% %AppEd% ( %AppArch% )
 
